@@ -10,7 +10,6 @@ On 19/07/2013
 #include <regstr.h>
 
 
-
 int main()
 {
     HDEVINFO DevInfoHandle;

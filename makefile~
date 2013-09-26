@@ -1,6 +1,5 @@
 WORKDIR = pwd
 
-
 CC = i586-mingw32msvc-gcc
 CXX = i586-mingw32msvc-g++
 LD = i586-mingw32msvc-g++
