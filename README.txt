@@ -1,1 +1,0 @@
-This is a simple program that lists all the arduino boards connected to the computer with the name and hardware ID strings.
